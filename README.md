@@ -1,7 +1,3 @@
-# shifty: FPGA password cracker
-
-![UV glowing scorpion](shifty.png)
-
 # EXAMPLE
 
 ```console
@@ -29,16 +25,3 @@ BSD-2-Clause
 # CONTRIBUTING
 
 For more information on developing shifty itself, see [DEVELOPMENT.md](DEVELOPMENT.md).
-
-# SEE ALSO
-
-* [Arnoud Quanjer](https://www.arnoudquanjer.com/portfolio-items/scorpions/) UV photography
-* [ejm 96](http://www.ascii-art.de/ascii/s/scorpion.txt) ASCII artwork
-* [swiper](https://github.com/mcandre/swiper) a PC type 7 password cracker
-
-```text
- .==.    | is for me? |
-:    '     v
- "==___(`
-   <<<< \_,
-```
